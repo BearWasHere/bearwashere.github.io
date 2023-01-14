@@ -1,2 +1,2 @@
-# bear-portfolio
-A portfolio website made for @BearWasTaken
+# My portfolio 
+A portfolio website made for me by @PrimeTDMomega.
